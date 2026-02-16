@@ -13,8 +13,7 @@ This is an **optional helper script** — it does not modify the repository code
 ## How to run
 1. Install DoScript (or ensure the `doscript` runner is available).
 2. Open a terminal in this folder.
-3. Run:
-do install.do
+3. Run: do install.do
 
 (or `doscript install.do` depending on your runner)
 
